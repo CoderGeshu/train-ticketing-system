@@ -11,7 +11,7 @@
 
 **登录界面**
 
-![STS登录界面](C:\Users\Eric\AppData\Roaming\Typora\typora-user-images\image-20210123160236965.png)
+![STS登录界面](https://gitee.com/eric0228/pic-go-images/raw/master/img/image-20210123160236965.png)
 
 **注册用户**
 
@@ -23,7 +23,7 @@
 
 **普通乘客端——乘客身份登录系统**
 
-![STS用户主页面](C:\Users\Eric\AppData\Roaming\Typora\typora-user-images\image-20210123160333694.png)
+![STS用户主页面](https://gitee.com/eric0228/pic-go-images/raw/master/img/image-20210123160333694.png)
 
 在车票业务中可以执行购票、订单信息、切换用户及退出功能。
 
