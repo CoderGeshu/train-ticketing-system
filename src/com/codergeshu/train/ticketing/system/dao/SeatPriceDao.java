@@ -1,7 +1,7 @@
-package dao;
+package com.codergeshu.train.ticketing.system.dao;
 
-import dbutil.SQLHelper;
-import entity.SeatPrice;
+import com.codergeshu.train.ticketing.system.utils.SQLHelper;
+import com.codergeshu.train.ticketing.system.entity.SeatPrice;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

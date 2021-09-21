@@ -1,4 +1,4 @@
-package view;
+package com.codergeshu.train.ticketing.system.view;
 
 import java.awt.*;
 import java.awt.event.*;
@@ -9,8 +9,8 @@ import java.util.ArrayList;
 import java.util.Date;
 import javax.swing.table.DefaultTableModel;
 
-import dao.*;
-import entity.*;
+import com.codergeshu.train.ticketing.system.dao.*;
+import com.codergeshu.train.ticketing.system.entity.*;
 
 /**
  * @Project: StationTicketingSystem

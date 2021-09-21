@@ -1,10 +1,10 @@
-package view;
+package com.codergeshu.train.ticketing.system.view;
 
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-import dao.UsersDao;
+import com.codergeshu.train.ticketing.system.dao.UsersDao;
 
 /**
  * @Project: StationTicketingSystem

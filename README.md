@@ -1,4 +1,4 @@
-# StationTicketingSystem
+# train-ticketing-system
 这是一个 Java GUI 系统设计：使用 Java Swing 编写的铁路售票应用系统。
 
 ## 技术栈
@@ -79,8 +79,8 @@
 
 ## 如何运行
 
-1. 把项目克隆到本地：`git clone https://github.com/CoderGeshu/StationTicketingSystem.git`
+1. 把项目克隆到本地：`git clone https://github.com/CoderGeshu/train-ticketing-system.git`
 2. 在 MySQL 中创建数据库 `train`，然后使用 `sql` 目录下的表创建语句进行创建表。
 3. 在本地 IDE 中打开项目，添加项目依赖的 jar 包：`mysql-connector-java-8.0.15.jar`，此 jar 包在本项目的 `libs` 文件夹下。
-4. 运行 `src/view/LoginWindow.java` 类，即可出现登录页面，然后使用数据库中的用户信息进行登录，也可进行注册新乘客信息后登录。管理员登录：`默认账号：120，密码：123456`。
+4. 运行 `AppStarter.java` 类，即可出现登录页面，然后使用数据库中的用户信息进行登录，也可进行注册新乘客信息后登录。管理员登录：`默认账号：120，密码：123456`。
 5. 详见源码和数据库表结构设计。

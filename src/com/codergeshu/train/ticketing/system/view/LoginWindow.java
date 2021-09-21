@@ -1,12 +1,12 @@
-package view;
+package com.codergeshu.train.ticketing.system.view;
 
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-import dao.*;
-import dbutil.Background;
-import entity.Users;
+import com.codergeshu.train.ticketing.system.dao.*;
+import com.codergeshu.train.ticketing.system.utils.Background;
+import com.codergeshu.train.ticketing.system.entity.Users;
 
 /**
  * @Project: StationTicketingSystem
@@ -175,9 +175,6 @@ public class LoginWindow extends JFrame implements ActionListener {
             this.dispose();
         }
     }
-
-    public static void main(String[] args) {
-        new LoginWindow("车票系统登录界面");
-    }
 }
+
 

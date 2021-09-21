@@ -1,4 +1,4 @@
-package dbutil;
+package com.codergeshu.train.ticketing.system.utils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

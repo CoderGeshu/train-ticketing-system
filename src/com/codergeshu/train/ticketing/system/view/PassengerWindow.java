@@ -1,13 +1,13 @@
-package view;
+package com.codergeshu.train.ticketing.system.view;
 
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.border.*;
 
-import dao.*;
-import dbutil.Background;
-import entity.*;
+import com.codergeshu.train.ticketing.system.dao.*;
+import com.codergeshu.train.ticketing.system.utils.Background;
+import com.codergeshu.train.ticketing.system.entity.*;
 
 /**
  * @Project: StationTicketingSystem

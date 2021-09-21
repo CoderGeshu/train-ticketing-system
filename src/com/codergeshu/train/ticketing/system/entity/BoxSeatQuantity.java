@@ -1,4 +1,4 @@
-package entity;
+package com.codergeshu.train.ticketing.system.entity;
 
 /**
  * @Project: StationTicketingSystem
